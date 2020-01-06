@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    background-color: navy;
+    color: white;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+    border: 10px;
+    border-color: red;
+    border-style: solid;
+    justify-content: space-between;
+}
+
+.text {
+    background-color: red;
+}
+a:hover{
+  color: white;
+}
+
+.title {
+    background-color: red;
+}
+
+.border-shrink {
+    border: 10px;
+    border-style: solid;
+    border-color: red;
+    background-color: red;
+}
+
+button {
+    font-size: 25px;
+    color: red;
+    background-color: aqua;
+    border-radius: 15px;
+}
